@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Days">
+      <UniqueIdentifier>{e0601cd2-565c-4042-9e92-1ca1389cf635}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source\day202101.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202102.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202103.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202104.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202105.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202106.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202107.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202108.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202109.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202110.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202111.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202112.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202113.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202114.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202115.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202116.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202117.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202118.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202119.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202120.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202121.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202122.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202123.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202124.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\day202125.h">
+      <Filter>Days</Filter>
+    </ClInclude>
+    <ClInclude Include="source\aoc_helpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
